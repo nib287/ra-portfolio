@@ -1,0 +1,15 @@
+.Toolbar-filter {
+	margin: 10px 2px;
+	padding: 4px;
+	background-color: #fff;
+	border: 1px solid black;
+}
+
+.Toolbar-filter:hover {
+	cursor: pointer;
+}
+
+.Toolbar-selected-filter {
+	background-color: black;
+	color: white;
+}
