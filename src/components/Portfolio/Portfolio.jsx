@@ -18,7 +18,6 @@ export default class Portfolio extends React.Component {
  
         return (
             <div className='Portfolio'>
-                {this.state.count}
                 <Toolbar
                     filters={filters}
                     selected={this.state.selected}
